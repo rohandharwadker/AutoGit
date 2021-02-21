@@ -1,4 +1,4 @@
-AutoGit 2.0.0 by WalleNet
+AutoGit 2.2 by WalleNet
 All Rights Reserved
 
 #### Installation Info ####
@@ -10,7 +10,7 @@ In the 'AutoGit' directory, run the following command:
 
 pyinstaller -w --onedir AutoGit.py
 
-You may need to install the following modules:
+You may need to install the following modules via pip (or pip3 if using Linux):
 -tkinter
 -PIL
 -pyautogui
