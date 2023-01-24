@@ -1,3 +1,4 @@
-AutoGit 2.2 by Rohan Dharwadker
+# AutoGit 2.2
+#### Created by Rohan Dharwadker
 
 (Under construction)
